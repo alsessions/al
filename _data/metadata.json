@@ -1,0 +1,9 @@
+{
+  "title": "Al's Blog",
+  "url": "https://example.com",
+  "domain": "example.com",
+  "description": "Just another blog.",
+  "author": {
+    "name": "Al Sessions"
+  }
+}
