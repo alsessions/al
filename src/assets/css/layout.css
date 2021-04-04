@@ -209,7 +209,7 @@ article img.containedImage {
   max-width: 100%;
   width: 100%;
   height: auto;
-  @apply my-10;
+  @apply mt-20;
   /* latter two for no-jank in Chrome and Firefox */
 }
 
