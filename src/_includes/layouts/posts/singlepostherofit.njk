@@ -8,8 +8,8 @@ layout: layouts/_default/base.njk
     {% lazypicture featured_image, featured_image_alt, "posts" %}
     <div class="background-hero-title-block-fit">
       <div class="background-hero-title-text">
-        <h1 class="text-left text-4xl md:text-left md:text-5xl lg:text-7xl xb:text-8xl tracking-tight leading-tight mb-4 px-4 md:px-0 text-white">{{ title }}</h1>
-        <h2 class="text-left text-2xl md:text-left md:text-3xl lg:text-5xl xb:text-6xl leading-tight tracking-tight px-4 md:px-0 text-white">
+        <h1 class="text-left text-4xl md:text-left md:text-5xl lg:text-7xl xb:text-8xl tracking-tight leading-tight mb-2 px-4 md:px-0 text-white">{{ title }}</h1>
+        <h2 class="text-left text-2xl md:text-left md:text-xl lg:text-3xl xb:text-6xl leading-tight tracking-tight px-4 md:px-0 text-white">
           {% if subtitle %}
             {{ subtitle }}
           {% else %}
@@ -17,7 +17,7 @@ layout: layouts/_default/base.njk
           {% endif %}
         </h2>
         <p class="hidden not-italic md:block md:text-2xl tracking-tight md:mt-8 mb-6 text-white max-w-3xl">{{ description }}</p>
-        <p class="text-base text-center px-4 md:text-right md:px-0 mt-4 md:mt-0 mb-0 text-white">
+        <p class="text-base text-right px-4 md:text-right md:px-0 mt-4 md:mt-0 mb-0 text-white">
        <strong>{{ page.date | htmlDateString }}</strong><br />
           <span class="text-sm">
           {% if lastmod %}
