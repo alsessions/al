@@ -74,7 +74,7 @@ span.caption a:focus, span.caption a:hover, span caption a:active {
 }
 
 a {
-  @apply text-blue-500 dark:text-blue-200 dark:border-blue-200;
+  @apply text-blue-800 dark:text-blue-200 dark:border-blue-200;
 }
 
 a:focus, a:hover, a:active {
@@ -148,7 +148,7 @@ h5, .h5, h6, .h6 {
 .background-hero-image-div {
   @apply relative overflow-hidden w-full bg-black;
   /* Have to allow for mobile browsers' own "chrome"; can't go by Inspector simulations of smaller breakpoints */
-  height: 80vh;
+  height: 50vh;
   max-height: 80vh;
 }
 
@@ -186,8 +186,8 @@ h5, .h5, h6, .h6 {
   }
 
   .background-hero-image-div {
-    height: 95vh;
-    max-height: 95vh;
+    height: 100vh;
+    max-height: 100vh;
   }
 }
 

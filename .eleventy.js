@@ -1,5 +1,6 @@
 const { DateTime } = require('luxon')
 const htmlmin = require('html-minifier')
+const embedYouTube = require("eleventy-plugin-youtube-embed")
 // const ofotigrid = require('./src/_includes/ofotigrid.js')
 // const sanitizeHTML = require('sanitize-html')
 const ErrorOverlay = require('eleventy-plugin-error-overlay')
@@ -8,6 +9,7 @@ const svgContents = require("eleventy-plugin-svg-contents")
 module.exports = function (eleventyConfig) {
 
   eleventyConfig.addPlugin(svgContents)
+  eleventyConfig.addPlugin(embedYouTube);
 
   eleventyConfig.setQuietMode(true)
 
