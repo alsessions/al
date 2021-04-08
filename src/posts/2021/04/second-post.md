@@ -3,7 +3,7 @@ layout: layouts/posts/singlepostherofit.njk
 tags: post
 title: "Stuff & Nonsense" # Quotation marks allow colons, semicolons, etc.
 subtitle: "Continued Image Fuckery" # Quotation marks allow colons, semicolons, etc.
-description: "Trying to figure out the image generation workflow." # Quotation marks allow colons, semicolons, etc.
+description: "Trying to figure out the image generation workflow. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Potius ergo illa dicantur: turpe esse, viri non esse debilitari dolore, frangi, succumbere. Equidem etiam Epicurum, in physicis quidem, Democriteum puto. Duo Reges: constructio interrete." # Quotation marks allow colons, semicolons, etc.
 author: Al Sessions
 date: 2021-04-02T09:27:00 # This would be 9:25 AM (0925) UTC on Jan. 19, 2019
 featured_image: inventory_03.jpg # Or whatever image you want to use

@@ -20,6 +20,8 @@ https://youtu.be/E08zARPXOzE
 
 Sed virtutem ipsam inchoavit, nihil amplius. At negat Epicurus-hoc enim vestrum lumen estquemquam, qui honeste non vivat, iucunde posse vivere. Nihil illinc huc pervenit. Si est nihil nisi corpus, summa erunt illa: valitudo, vacuitas doloris, pulchritudo, cetera. Quae cum essent dicta, finem fecimus et ambulandi et disputandi. Qui non moveatur et offensione turpitudinis et comprobatione honestatis? An potest, inquit ille, quicquam esse suavius quam nihil dolere? Quis Aristidem non mortuum diligit? Expressa vero in iis aetatibus, quae iam confirmatae sunt. Quod non faceret, si in voluptate summum bonum poneret. Num igitur eum postea censes anxio animo aut sollicito fuisse? Philosophi autem in suis lectulis plerumque moriuntur. 
 
+https://youtu.be/SCq-KPQpVgU
+
 Cetera illa adhibebat, quibus demptis negat se Epicurus intellegere quid sit bonum. Sed quid minus probandum quam esse aliquem beatum nec satis beatum? An eiusdem modi? Dolor ergo, id est summum malum, metuetur semper, etiamsi non aderit; Huius, Lyco, oratione locuples, rebus ipsis ielunior. 
 
 Quamquam te quidem video minime esse deterritum. Quantum Aristoxeni ingenium consumptum videmus in musicis? Sed ego in hoc resisto; At iam decimum annum in spelunca iacet. Quicquid enim a sapientia proficiscitur, id continuo debet expletum esse omnibus suis partibus; Cupit enim dícere nihil posse ad beatam vitam deesse sapienti. 

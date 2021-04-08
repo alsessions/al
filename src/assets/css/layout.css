@@ -3,11 +3,11 @@ main {
 }
 
 html, body {
-  @apply dark:bg-black;
+  
 }
 
 body {
-  @apply font-serif dark:text-gray-200;
+  @apply font-sans;
   font-feature-settings: "liga" 1;
 }
 
@@ -200,7 +200,7 @@ article h1, article h2, article h3, article h4 {
   @apply tracking-tight mt-8 mb-6;
 }
 
-article p, li {
+li {
   @apply text-lg mt-6 mb-6 leading-relaxed;
 }
 
@@ -369,7 +369,7 @@ footer {
 }
 
 .lazypicturecaption {
-  @apply text-sm p-0 mt-2 leading-snug text-center;
+  @apply text-lg text-gray-600 p-0 leading-snug text-center;
 }
 
 .home-colOne p {

@@ -15,7 +15,7 @@ featured_image_alt: Cards header image # Always include an ALT tag for accessibi
 
 {% lazypicture "painting-two.jpg", "A picture of some coasters" %}
 
-<div class="block mx-auto text-lg md:text-2xl italic text-center mb-20 -mt-10">Acrylic on coasters. Yes, coasters.</div>
+<div class="lazypicturecaption">Acrylic on coasters. Yes, coasters.</div>
 
 {% lazypicture "inventory.jpg", "Small paper work" %}
 
@@ -23,7 +23,7 @@ featured_image_alt: Cards header image # Always include an ALT tag for accessibi
 
 {% lazypicture "inventory_03.jpg", "Small paper work" %}
 
-<div class="block mx-auto text-lg md:text-2xl italic text-center mb-20">Various small ink on paper sketches and such.</div>
+<div class="lazypicturecaption">Various small ink on paper sketches and such.</div>
 
 
 {% lazypicture "inventory_001.jpg", "Small paper work" %}
