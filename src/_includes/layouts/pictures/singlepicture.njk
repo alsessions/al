@@ -1,0 +1,39 @@
+---
+title: singlepicture.njk
+layout: layouts/_default/base.njk
+---
+
+
+
+
+  <div class="my-40 max-w-none px-4 md:px-20 mx-auto">
+    <article class="article max-w-4xl">
+      {{ content | safe }}
+    </article>
+       <p class="font-sans mt-4 lg:mt-6 2xl:mt-8"><strong>{{ page.date | htmlDateString }}</strong><br />
+       {% if picture %}
+        {% lazypicture picture, featured_image_alt, "pictures" %}
+        
+        {% endif %}
+  </div>
+
+  {% if page.url != "/about/" %}
+
+  <div class="font-sans w-full px-8 md:px-0 bg-blue-700 align-middle mt-10 mb-10">
+  
+  {% if nextPost.url %}
+    <p class="text-center my-2 text-xl text-white leading-tight tracking-tight">
+      <strong>Next</strong>: 
+      <a class="border-transparent text-blue-100 hover:text-white hover:border-blue-100" href="{{ nextPost.url }}">{{ nextPost.data.title }}</a>
+    </p>
+  {% endif %}
+  {% if prevPost.url %}
+    <p class="text-center pb-4 my-2 text-xl text-white leading-tight tracking-tight">
+      <strong>Previous</strong>: 
+      <a class="border-transparent text-blue-100 hover:text-white hover:border-blue-100" href="{{ prevPost.url }}">{{ prevPost.data.title }}</a>
+    </p>
+  {% else %}
+    <p class="text-xs my-0 py-0 leading-tight">&nbsp;</p>
+  {% endif %}
+  </div>
+  {% endif %}

@@ -1,13 +1,13 @@
 ---
 layout: layouts/posts/singlepostherofit.njk
 tags: post
-title: "Appearances Matter" 
-subtitle: "What I like in a workspace." 
-description: "It doesn't get much more subjective than this and is just what I like. This moment." 
+title: "Random Post - Soon to be Gone" # Quotation marks allow colons, semicolons, etc.
+subtitle: "Uggah-Booga-Boo!" # Quotation marks allow colons, semicolons, etc.
+description: "Potius ergo illa dicantur: turpe esse, viri non esse debilitari dolore, frangi, succumbere. Quo invento omnis ab eo quasi capite de summo bono et malo disputatio ducitur." # Quotation marks allow colons, semicolons, etc.
 author: Al Sessions
-date: 2021-04-06 # YYYY-MM-DD
-featured_image: workspace0001.jpg 
-featured_image_alt: Image of my current workspace.
+date: 2021-04-07 # This would be 9:25 AM (0925) UTC on Jan. 19, 2019
+featured_image: dashtodock.png # Or whatever image you want to use
+featured_image_alt: Image of my current workspace # Always include an ALT tag for accessibility
 
 ---
 ## Appearances Matter
@@ -30,12 +30,15 @@ And when I say minimalist, I mean minimalist. No desktop icons, no visible panel
 
 ## Code Editor
 
-[VS Code](https://code.visualstudio.com) all day every day. I'll never have the need for Vim or Emacs and don't really want to learn a new OS. I've used and bought [Sublime Text](https://www.sublimetext.com/) and as much as I like the speed and elegance of Sublime the pace of development just isn't there.
 
-I don't do much fancy with the terminal and stick with bash. I know it and for my needs it is more than adequate. For a client I like [Tilix](https://gnunn1.github.io/tilix-web/). I'll generally have a couple running all day and and have them set up to fade away when unfocused. They hang out there all day a keystroke away but remain unobtrusive.
 
-{% lazypicture "tilix2.png" "Visual Studio Code and a Terminal" %}
-<div class="lazypicturecaption">VSCode and Tilix terminal.</div>
+
+
+Sed virtutem ipsam inchoavit, nihil amplius. At negat Epicurus-hoc enim vestrum lumen estquemquam, qui honeste non vivat, iucunde posse vivere. Nihil illinc huc pervenit. Si est nihil nisi corpus, summa erunt illa: valitudo, vacuitas doloris, pulchritudo, cetera. Quae cum essent dicta, finem fecimus et ambulandi et disputandi. Qui non moveatur et offensione turpitudinis et comprobatione honestatis? An potest, inquit ille, quicquam esse suavius quam nihil dolere? Quis Aristidem non mortuum diligit? Expressa vero in iis aetatibus, quae iam confirmatae sunt. Quod non faceret, si in voluptate summum bonum poneret. Num igitur eum postea censes anxio animo aut sollicito fuisse? Philosophi autem in suis lectulis plerumque moriuntur. 
+
+
+
+Cetera illa adhibebat, quibus demptis negat se Epicurus intellegere quid sit bonum. Sed quid minus probandum quam esse aliquem beatum nec satis beatum? An eiusdem modi? Dolor ergo, id est summum malum, metuetur semper, etiamsi non aderit; Huius, Lyco, oratione locuples, rebus ipsis ielunior. 
 
 Quamquam te quidem video minime esse deterritum. Quantum Aristoxeni ingenium consumptum videmus in musicis? Sed ego in hoc resisto; At iam decimum annum in spelunca iacet. Quicquid enim a sapientia proficiscitur, id continuo debet expletum esse omnibus suis partibus; Cupit enim dícere nihil posse ad beatam vitam deesse sapienti. 
 
