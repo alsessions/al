@@ -8,5 +8,3 @@ date: 2021-03-30T21:00:00-05:00
 
 This is just a small selection of whatever strikes my fancy.
 
-There is little here likely to interest anyone other than myself.
-

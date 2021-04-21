@@ -19,6 +19,7 @@ pagination:
     <div>
     
       <hr class="mt-2 mb-6" />
+     <div class="grid grid-cols-3">
       {% for post in pictures %}
         <div>          
           <h2 class="text-2xl lg:text-3xl 2xl:text-4xl mb-1 leading-tight tracking-tight"><a href="{{ post.url }}">{{ post.data.title }}</a><br />
@@ -28,10 +29,11 @@ pagination:
 
           </p>
           <p class="text-base mt-2 mb-10">
-            {{ post.data.description }}
+     
           </p>
         </div>
       {% endfor %}
+      </div>
       <hr class="mt-6" />
       <p class="text-center text-sm mt-2 mb-16">
         {% if pagination.firstPageHref != page.url %}
