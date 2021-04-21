@@ -12,17 +12,15 @@ featured_image_alt: Image of my current workspace.
 ---
 ## Appearances Matter
 
-Like my father always told me, "You never get a second chance to make a first imnpression," and I start most of my work days in my text editor and terminal. I remain there, on and off but mostly on, for the next ten hours. I spend more time in my editor than I do with my partner, my kids or pretty much anything else so, it had best be a pleasant expierience.
+I've always been pretty utilitarian with my workspaces and never took much time customizing things. I'd change the wallpaper, mess with some font scaling and icon sizes and call it a day. What do I care, it's a tool and I wouldn't paint my hammer. Well, now I might.
 
-Here is a little bit of what I've come to. This is a basic stack familiar to everyone with a whole bunch of totally subjective tweaks. 
+Over a few decades of staring at terrible color and app UI's that look like they were built in 1998 I've started to take a little more time setting things up. 
 
 ### Desktop Environment
 
-I've settled on Debian based distros with GNOME for a DE. [Ubuntu](https://ubuntu.com), [Mint](https://linuxmint.com) and [Pop_OS!](https://pop.system76.com/) are all fine choices. 
+I've settled on [Pop_OS!](https://pop.system76.com/) with GNOME for a DE. I happen to like GNOME. I understand it and it enforces a separation of concerns that appeals to me along with offering just enough customization. I'm pretty minimalist anyway.
 
-I happen to like GNOME. I understand it is resource intensive and somewhat less than modern and look forward to a [GNOME 4](https://www.gnome.org/) [Pop!_OS](https://support.system76.com/articles/roadmap/) release, but for now, GNOME enforces a seperation of concerns that appeals to me and provides an easy path to minimalismn.
-
-And when I say minimalist, I mean minimalist. No desktop icons, no visible panels or docks, clocks, geegaws or widgets. I use a couple of GNOME exextensions to only display the top [bar](https://extensions.gnome.org/extension/545/hide-top-bar/) on hover. I use [Dash to Dock](https://extensions.gnome.org/extension/307/dash-to-dock/) and it's hidden by default and revealed on hover (I like it on the left with small icons). I rarely use either and find the Super key easier for app launching or an overview.
+And when I say minimalist, I mean minimalist. No desktop icons, no visible panels or docks, clocks, geegaws or widgets. I use a couple of GNOME extensions to only display the top [bar](https://extensions.gnome.org/extension/545/hide-top-bar/) on hover. I use [Dash to Dock](https://extensions.gnome.org/extension/307/dash-to-dock/) and it's hidden by default and revealed on hover (I like it on the left with small icons). I rarely use either and find the Super key easier for app launching or an overview.
 
 {% lazypicture "dashtodock.png" "Dash to Dock screenshot" %}
 <div class="lazypicturecaption">The Dash to Dock extension when hovered</div>
@@ -30,14 +28,14 @@ And when I say minimalist, I mean minimalist. No desktop icons, no visible panel
 
 ## Code Editor
 
-[VS Code](https://code.visualstudio.com) all day every day. I'll never have the need for Vim or Emacs and don't really want to learn a new OS. I've used and bought [Sublime Text](https://www.sublimetext.com/) and as much as I like the speed and elegance of Sublime the pace of development just isn't there.
+[VS Code](https://code.visualstudio.com) all day every day. I'll never have the need for Vim or Emacs and don't really want to learn a whole new OS. I've used and bought [Sublime Text](https://www.sublimetext.com/) and as much as I like the speed and elegance of Sublime the pace of development just isn't there.
 
-I don't do much fancy with the terminal and stick with bash. I know it and for my needs it is more than adequate. For a client I like [Tilix](https://gnunn1.github.io/tilix-web/). I'll generally have a couple running all day and and have them set up to fade away when unfocused. They hang out there all day a keystroke away but remain unobtrusive.
+I don't do much fancy with the terminal and stick with bash. I've used ZSH and Fish and the learning curve just isn't worth it. I know it and for my needs bash is more than adequate. For a client I like [Tilix](https://gnunn1.github.io/tilix-web/). I'll generally have a couple running all day and and have them set up to fade away when unfocused. They hang out there all day a keystroke away but remain unobtrusive.
 
 {% lazypicture "tilix2.png" "Visual Studio Code and a Terminal" %}
 <div class="lazypicturecaption">VSCode and Tilix terminal.</div>
 
-Quamquam te quidem video minime esse deterritum. Quantum Aristoxeni ingenium consumptum videmus in musicis? Sed ego in hoc resisto; At iam decimum annum in spelunca iacet. Quicquid enim a sapientia proficiscitur, id continuo debet expletum esse omnibus suis partibus; Cupit enim dícere nihil posse ad beatam vitam deesse sapienti. 
+
 
 
 
